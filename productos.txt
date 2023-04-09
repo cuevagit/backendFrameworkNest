@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "4ffce52e-c6dc-49aa-9349-11d41211b8b1",
+    "title": "probarpatch2",
+    "price": 15000,
+    "thumbnail": "../uploads/comunicados.png"
+  },
+  {
+    "_id": "3daa47f6-81df-482a-a415-e9d38dff528e",
+    "title": "probarnest",
+    "price": "1500",
+    "thumbnail": "../uploads/comunicados.png"
+  },
+  {
+    "_id": "20c6a78a-4d25-4653-bc6f-4652f1bbbd85",
+    "title": "probaridnest",
+    "price": "3000",
+    "thumbnail": "../uploads/comunicados.png"
+  }
+]
